@@ -1,0 +1,7 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+openpyxl==3.0.5
+Pillow==8.1.0
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
